@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626218295278",
+    "project_id": "komik-app-e7611",
+    "storage_bucket": "komik-app-e7611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626218295278:android:ff2dab87e5579498c338ff",
+        "android_client_info": {
+          "package_name": "com.example.komik_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8y16R6r4m-vkQYJPvOeZpjYqO9bm_ffU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626218295278:android:5bbbfb9ee6eba704c338ff",
+        "android_client_info": {
+          "package_name": "com.faishal.komikapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8y16R6r4m-vkQYJPvOeZpjYqO9bm_ffU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
